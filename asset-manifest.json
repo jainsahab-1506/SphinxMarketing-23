@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/SphinxMarketing-23/static/css/main.74f1fd4c.css",
+    "main.js": "/SphinxMarketing-23/static/js/main.01adba50.js",
+    "static/js/787.d9978e96.chunk.js": "/SphinxMarketing-23/static/js/787.d9978e96.chunk.js",
+    "static/media/anim1.gif": "/SphinxMarketing-23/static/media/anim1.302086d729b781803210.gif",
+    "static/media/event3j.png": "/SphinxMarketing-23/static/media/event3j.516b51ec99f566bd7234.png",
+    "static/media/card.png": "/SphinxMarketing-23/static/media/card.4f9a4a19cd614fbaafb2.png",
+    "static/media/event2j.png": "/SphinxMarketing-23/static/media/event2j.a3daf43f9cf0ecad0f4c.png",
+    "static/media/event1j.png": "/SphinxMarketing-23/static/media/event1j.8373f70ca148d3f13786.png",
+    "static/media/landing.webp": "/SphinxMarketing-23/static/media/landing.79037828bfa8c8a11aeb.webp",
+    "static/media/logo.png": "/SphinxMarketing-23/static/media/logo.43303035af99e36077a1.png",
+    "static/media/event2.jpg": "/SphinxMarketing-23/static/media/event2.88176f2aed0e4ea05c66.jpg",
+    "static/media/splashn.gif": "/SphinxMarketing-23/static/media/splashn.3ba3c73eb3ae356d660c.gif",
+    "static/media/about_bg.webp": "/SphinxMarketing-23/static/media/about_bg.e6a41885e6081c222c2c.webp",
+    "static/media/event1.jpg": "/SphinxMarketing-23/static/media/event1.4ca6120ddcd45be03106.jpg",
+    "static/media/smoke2.png": "/SphinxMarketing-23/static/media/smoke2.89e221cb87fe408ec601.png",
+    "static/media/smoke3.png": "/SphinxMarketing-23/static/media/smoke3.d29fa9eba14b2f79f1e8.png",
+    "static/media/Mlogo.png": "/SphinxMarketing-23/static/media/Mlogo.5e3454cfeaf451343758.png",
+    "static/media/event3.jpg": "/SphinxMarketing-23/static/media/event3.65a185836285fd324f0e.jpg",
+    "static/media/title.png": "/SphinxMarketing-23/static/media/title.191510934a8690c6cb63.png",
+    "static/media/about_heading.png": "/SphinxMarketing-23/static/media/about_heading.c7cd19e0cada1372d047.png",
+    "static/media/smoke.png": "/SphinxMarketing-23/static/media/smoke.0d0c0efe4b3f7b6cf6da.png",
+    "static/media/bg.webp": "/SphinxMarketing-23/static/media/bg.407def1d4a64b4361718.webp",
+    "static/media/Slogo.png": "/SphinxMarketing-23/static/media/Slogo.28ef7ca842ebe492399d.png",
+    "static/media/about.webp": "/SphinxMarketing-23/static/media/about.2d8fa6669c4d6d48b751.webp",
+    "static/media/events.webp": "/SphinxMarketing-23/static/media/events.4fd4f3a2cf33bc75be93.webp",
+    "static/media/contact.webp": "/SphinxMarketing-23/static/media/contact.c610a7a3e795769844f6.webp",
+    "index.html": "/SphinxMarketing-23/index.html",
+    "main.74f1fd4c.css.map": "/SphinxMarketing-23/static/css/main.74f1fd4c.css.map",
+    "main.01adba50.js.map": "/SphinxMarketing-23/static/js/main.01adba50.js.map",
+    "787.d9978e96.chunk.js.map": "/SphinxMarketing-23/static/js/787.d9978e96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74f1fd4c.css",
+    "static/js/main.01adba50.js"
+  ]
+}
